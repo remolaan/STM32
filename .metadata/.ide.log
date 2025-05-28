@@ -1,0 +1,15 @@
+2025-05-28 00:04:19,094 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 0:04:18.989 ERROR Chromium process exit code: -2,147,483,645
+2025-05-28 00:04:19,151 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 
+2025-05-28 00:04:19,155 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 0:04:19.152 ERROR Crash dump dir: C:\Users\User\AppData\Local\JxBrowser\7.38.2\CrashReports
+2025-05-28 00:04:19,155 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 
+2025-05-28 00:04:19,198 [ERROR] WebApp:397 - JxBrowser engine crashed! Exit code: -2147483645
+2025-05-28 00:11:14,137 [ERROR] ConfigurationRetriever:142 - IOException on connection: Read timed out
+2025-05-28 00:11:16,406 [ERROR] ConfigurationRetriever:142 - IOException on connection: Read timed out
+2025-05-28 00:11:18,621 [ERROR] ConfigurationRetriever:142 - IOException on connection: Read timed out
+2025-05-28 00:41:35,657 [ERROR] ConfigurationRetriever:142 - IOException on connection: Read timed out
+2025-05-28 00:41:37,735 [ERROR] ConfigurationRetriever:142 - IOException on connection: Read timed out
+2025-05-28 00:41:39,777 [ERROR] ConfigurationRetriever:142 - IOException on connection: Read timed out
+2025-05-28 00:49:47,927 [ERROR] ConfigurationRetriever:142 - IOException on connection: Read timed out
+2025-05-28 00:49:51,607 [ERROR] ConfigurationRetriever:142 - IOException on connection: Read timed out
+2025-05-28 00:49:53,636 [ERROR] ConfigurationRetriever:142 - IOException on connection: Read timed out
+2025-05-28 00:51:13,556 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 
